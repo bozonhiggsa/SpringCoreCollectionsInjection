@@ -6,7 +6,7 @@ import java.util.Properties;
 import java.util.Set;
 
 /**
- * Model
+ * Class with various type collections
  * @author Ihor Savchenko
  * @version 1.0
  */
